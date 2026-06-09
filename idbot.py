@@ -7,7 +7,7 @@ from aiogram.types import Message
 from aiogram.filters import Command
 
 # ---------------- КОНФИГ ----------------
-BOT_TOKEN = "8939825083:AAHnyI7dmTt8I1mU8JbEILNYkLjM4RwVkXA"  # Токен от @BotFather
+BOT_TOKEN = "893982YkLjM4RwVkXA"  # Токен от @BotFather
 
 # ---------------- ЛОГИРОВАНИЕ ----------------
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
